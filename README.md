@@ -184,7 +184,7 @@ Cuộc sống sẽ không phải lúc nào cũng dễ dàng. Công việc, học
 
 Cảm ơn em vì đã đọc những dòng này. Anh yêu em, rất nhiều.: " + wishInput;
       } else {
-        wishDisplay.textContent = "Bạn chưa nhập lời chúc!";
+        wishDisplay.textContent = "haha!";
       }
     }
   </script>
